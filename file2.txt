@@ -1,3 +1,4 @@
 file2
 added a line from feature
 added a line from main
+added another line from feature
